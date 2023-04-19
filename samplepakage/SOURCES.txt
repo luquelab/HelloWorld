@@ -1,0 +1,5 @@
+setup.py
+hellopkgluquelab.egg-info/PKG-INFO
+hellopkgluquelab.egg-info/SOURCES.txt
+hellopkgluquelab.egg-info/dependency_links.txt
+hellopkgluquelab.egg-info/top_level.txt
